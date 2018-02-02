@@ -1,8 +1,0 @@
-pirsclockfull
-setup.cfg
-setup.py
-PiRSClock_Full.egg-info/PKG-INFO
-PiRSClock_Full.egg-info/SOURCES.txt
-PiRSClock_Full.egg-info/dependency_links.txt
-PiRSClock_Full.egg-info/requires.txt
-PiRSClock_Full.egg-info/top_level.txt
